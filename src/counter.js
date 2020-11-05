@@ -8,6 +8,7 @@ export default class Counter extends Component {
 		};
 	}
 	render() {
+    console.log('Render Counter')
 		return (
 			<div>
 				<button onClick={() => this.changeCount(-1)}>-</button>
