@@ -10,3 +10,8 @@ git remote add origin https://github.com/PaulAyling/webDevSimplified.git
 git push -u origin main
 
 ## NOTES
+
+
+## Live version
+is here https://angry-hugle-bed35c.netlify.app/
+setup continuous deployment everytime I make commits the app is updated
