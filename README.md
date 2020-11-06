@@ -9,8 +9,11 @@ git branch -M main
 git remote add origin https://github.com/PaulAyling/webDevSimplified.git
 git push -u origin main
 
-## NOTES
+## Files
+NOTE: to get pathname in finder left click folder and hit option key and chose copy path
 
+Navigate to files can be found locally on 
+cd /Users/bob/Documents/repoActive/training/webDevSimplified/learn-react && npm run start
 
 ## Live version
 is here https://angry-hugle-bed35c.netlify.app/
